@@ -89,37 +89,37 @@ const CONFIG = {
     firstList: [
       {
         name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=J3wONk-5ZM4',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Lofi',
+        link: 'https://www.youtube.com/watch?v=19BbOdi2sT4',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Relaxing music',
+        link: 'https://www.youtube.com/watch?v=dbJ55eUlw3A',
       },
       {
         name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=ozv4q2ov3Mk',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'WhatsApp',
+        link: 'https://web.whatsapp.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Radio',
+        link: 'https://radio.mashtoolz.xyz/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Coding',
+        link: 'https://replit.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Twitter',
+        link: 'https://twitter.com',
       },
     ],
   },
