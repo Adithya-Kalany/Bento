@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Adithya',
+  name: 'Adithya!',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Good morning ',
+  greetingAfternoon: 'Good afternoon ',
+  greetingEvening: 'Good evening ',
+  greetingNight: 'Go to Sleep ',
 
   // Weather
   weatherKey: '3a3bcfbf1b249e58432e565d14c3407d',
