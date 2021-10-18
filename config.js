@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://mail.protonmail.com/',
     },
     {
       id: '2',
