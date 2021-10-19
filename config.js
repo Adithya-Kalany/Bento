@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Adithya!',
   imageBackground: false,
-  openInNewTab: false,
+  openInNewTab: true,
   twelveHourFormat: true,
 
   // Greetings
