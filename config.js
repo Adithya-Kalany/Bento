@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Reddit',
-      icon: 'users',
-      link: 'https://reddit.com',
+      name: 'Trello',
+      icon: 'trello',
+      link: 'https://trello.com/',
     },
     {
       id: '4',
