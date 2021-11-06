@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Trello',
-      icon: 'trello',
-      link: 'https://trello.com/',
+      name: 'Matrix',
+      icon: 'message-square',
+      link: 'https://app.schildi.chat/',
     },
     {
       id: '4',
