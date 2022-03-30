@@ -41,11 +41,11 @@
 
 /* Dark theme  */
 .darktheme {
-  --accent: #61b0f1; /* Hover color */
-  --bg: #1b1728; /* Background color */
-  --sbg: #201e21; /* Cards color */
-  --fg: #231f34; /* Foreground color */
-  --sfg: #3a3a3a; /* Secondary Foreground color */
+  --accent: #0d538e; /* Hover color */
+  --bg: #110f19; /* Background color */
+  --sbg: #161320; /* Cards color */
+  --fg: #cdd8e3; /* Foreground color */
+  --sfg: #b3bfd3; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.85),
     rgba(0, 0, 0, 0.85)
