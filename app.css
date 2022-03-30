@@ -4,6 +4,9 @@
 // ╚═╝╚═╝╝╚╝ ╩ ╚═╝ 
 */
 
+* {
+  font-family: Inter;
+}
 /* cyrillic-ext */
 @font-face {
   font-family: 'Inter';
