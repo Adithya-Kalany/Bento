@@ -110,16 +110,16 @@ const CONFIG = {
         link: 'https://web.whatsapp.com/',
       },
       {
-        name: 'Radio',
-        link: 'https://radio.mashtoolz.xyz/',
+        name: 'Reddit',
+        link: 'https://reddit.com/',
       },
       {
         name: 'Coding',
         link: 'https://replit.com',
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com',
+        name: 'Wikipedia',
+        link: 'https://wikipedia.org/Main_Page',
       },
     ],
   },
