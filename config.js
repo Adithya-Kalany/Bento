@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'RSS',
+      icon: 'book',
+      link: 'http://192.168.1.15:9090/',
     },
   ],
 
