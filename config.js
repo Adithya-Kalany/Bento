@@ -54,7 +54,7 @@ const CONFIG = {
       id: '3',
       name: 'Matrix',
       icon: 'message-square',
-      link: 'https://app.schildi.chat/',
+      link: 'https://mas.to',
     },
     {
       id: '4',
