@@ -119,7 +119,7 @@ const CONFIG = {
       },
       {
         name: 'Wikipedia',
-        link: 'https://wikipedia.org/Main_Page',
+        link: 'https://en.wikipedia.org/wiki/Main_Page',
       },
     ],
   },
